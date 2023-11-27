@@ -7,4 +7,4 @@ jobs:
       - name: Print greeting
         run: echo "Hello World!"
       - name: Print Jai Hind. Good bye
-        run: echo "Jai Hind.. Good bye Done - bye!"
+        run: echo "Done - bye!"
